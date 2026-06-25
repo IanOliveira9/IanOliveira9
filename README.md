@@ -12,14 +12,19 @@ Tenho experiência prática com Excel, SQL Server e Power BI, desenvolvendo proj
 - Git
 - GitHub
 
-## 📂 Projetos em Destaque
+## 📂 Projeto em Destaque
 
 ### 📊 Análise de Vendas de Restaurante
-Projeto desenvolvido com dados reais, passando pelas etapas de coleta, tratamento, análise e visualização dos dados.
 
-**Ferramentas:** Excel, SQL Server e Power BI.
+Projeto desenvolvido com dados reais envolvendo:
 
-## 🎯 Objetivo
+- Coleta e organização dos dados
+- Tratamento dos dados no Excel
+- Consultas e análises no SQL Server
+- Construção de dashboard no Power BI
+- Geração de insights para tomada de decisão
+
+## 🎯 Sobre Mim
 
 Busco minha primeira oportunidade na área de Dados, onde possa aplicar meus conhecimentos, desenvolver novas habilidades e contribuir para a geração de insights através da análise de dados.
 
